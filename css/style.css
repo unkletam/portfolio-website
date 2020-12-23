@@ -2023,7 +2023,7 @@ body.work .footer {
 }
 
 .about-info-block .block h2 {
-    width: 3.9ch;
+    width: 4.2ch;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -2236,8 +2236,8 @@ p.w3-tooltip {
     height: 20px;
     background: #614DFF;
     border-radius: 10px;
-    top: 80%;
-    left: 54%;
+    top: 62%;
+    left: 9.2%;
     position: absolute;
     transform: translate(-50%, -50%);
 }
@@ -2247,8 +2247,8 @@ p.w3-tooltip {
     height: 50px;
     border: 2px solid #614DFF;
     border-radius: 25px;
-    top: calc(80% - 25px);
-    left: calc(54% - 25px);
+    top: calc(80% - 120px);
+    left: calc(54% - 200px);
     position: absolute;
     transform: translate(-50%, -50%);
     -webkit-animation: pulsate 1.5s ease-out;
@@ -2259,7 +2259,7 @@ p.w3-tooltip {
 .location .location-dot-visited {
     width: 13px;
     height: 13px;
-    background: rgb(175, 174, 255);
+    background: rgb(255, 127, 117);
     border-radius: 10px;
     position: absolute;
     margin: 0;
